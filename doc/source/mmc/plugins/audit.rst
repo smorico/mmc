@@ -22,7 +22,7 @@ the following packages:
 
 The audit framework is configured in the :file:`base.ini` configuration file, 
 and is disabled by default. To enable it, uncomment the audit
-section. It should look like:
+section in file /etc/mmc/plugins/base.ini. It should look like:
 
 ::
 
